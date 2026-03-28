@@ -78,3 +78,22 @@ int main()
 	}
 	free(arr1);
 }
+/*
+Sample Input and Output:
+5
+1 2 3 4 5
+1.Insert 2.Delete 3.Display 4.Exit:3
+1 2 3 4 5
+1.Insert 2.Delete 3.Display 4.Exit:1
+100
+1.Insert 2.Delete 3.Display 4.Exit:3
+1 2 3 4 5 100
+1.Insert 2.Delete 3.Display 4.Exit:2
+1
+1.Insert 2.Delete 3.Display 4.Exit:3
+1 3 4 5 100
+1.Insert 2.Delete 3.Display 4.Exit:2
+100
+Invalid index position
+1.Insert 2.Delete 3.Display 4.Exit:4
+*/
